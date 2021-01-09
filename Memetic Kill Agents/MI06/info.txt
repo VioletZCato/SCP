@@ -1,0 +1,6 @@
+Topic: Map
+Source: ContextFree, "Ancient Map"
+	Official Database
+
+MI06-1: SCP
+MI06-3: SCP, [binary]

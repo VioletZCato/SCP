@@ -1,0 +1,26 @@
+Topic: Map
+Source: ContextFree, "Ancient Map"
+
+
+ancient-map.cdfg
+MA03-01: S
+MA03-02: E
+MA03-03: C
+MA03-04: U
+MA03-05: R
+MA03-06: E
+MA03-07: C
+MA03-08: O
+MA03-09: N
+MA03-10: T
+MA03-11: A
+MA03-12: I
+MA03-13: N
+MA03-14: P
+MA03-15: R
+MA03-16: O
+MA03-17: T
+MA03-18: E
+MA03-19: C
+MA03-20: T
+  

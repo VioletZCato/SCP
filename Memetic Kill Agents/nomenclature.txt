@@ -1,0 +1,32 @@
+Each agent will be assigned a 3-character name/code, plus any suffixes.
+
+They will be named as follows:
+
+1. A capital letter describing the topic. Typically the first letter of the word.
+2. The type of agent.  "A" for Animated, and "I" for Image. 
+3. The number of which agent.  01, 02, 03...
+
+Example:
+
+AA00
+
+1. Apple --> A
+2. .gif style animation --> A
+3. example creation --> 00
+
+There may also be suffixes added with a dash:
+
+I: Inversed - inversed color
+R: Reversed - reversed animation
+FH: Flipped Horizontal - flipped horizontally
+FV: Flipped Vertical - flipped vertically
+F: Fast - fastened animation
+S: Slow - slowed animation
+
+1-9: denoting variations of an agent - labeled in order
+
+Example:
+
+AA00-F
+
+the AA00 animation, but with increased speed

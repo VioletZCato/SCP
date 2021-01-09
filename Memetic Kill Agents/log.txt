@@ -1,0 +1,35 @@
+created VA1
+
+created BA2
+
+created nomenclature.txt to formalize system, and renamed existing agents to VA01 and BA02
+
+created and added info.txt files to each agent
+
+created MA03
+
+chose key of seeds for MA03-Xs
+
+created GA04, FI05
+
+chose new key - previous was insufficient (too short, bad RNG)
+
+created MI06
+
+repurposed unused MA03 variation became MI06-1
+
+created MA03-Xs as components for MA03.gif
+
+created MA03.gif from component variations
+
+retrieved SCP insignia with transparent background, as MI06-2
+
+combined MI06-1 with a low opacity version of MI06-2
+
+determined image seed for visual addative MI06-3
+
+translated seed to [REDACTED] and transformed into pattern with with transparent background
+
+added MI06-3 to MI06.png to finalize
+
+created log.txt to formalize and maintain
