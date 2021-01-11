@@ -33,3 +33,15 @@ translated seed to [REDACTED] and transformed into pattern with with transparent
 added MI06-3 to MI06.png to finalize
 
 created log.txt to formalize and maintain
+
+created CI07 and CA08 with log files
+
+created CI07-1 with modified circular clouds
+
+created CI07-2 addative piece
+
+combined CI07-1 and -2 to make CI07
+
+used online tool to creat FI05-1
+
+added shapes with radial patterns to create FI05

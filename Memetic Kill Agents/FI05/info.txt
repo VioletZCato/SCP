@@ -1,2 +1,13 @@
 Topic: Fractal
-Source: ???
+Source: http://usefuljs.net/fractals/
+
+type: nova
+polynomial terms: 2,0,0,-2
+relaxation paramter: 1
+start value: 1
+minimum real value: -0.6757355798575342
+maximum real value: -0.2242803001817108
+maximum imaginary value:-0.231656257282234
+minimum imaginary value: -0.5702477170391016
+scale: 8.86:1
+http://usefuljs.net/fractals/

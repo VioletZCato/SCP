@@ -1,8 +1,6 @@
 Topic: Map
 Source: ContextFree, "Ancient Map"
 
-
-ancient-map.cdfg
 MA03-01: S
 MA03-02: E
 MA03-03: C
@@ -23,4 +21,4 @@ MA03-17: T
 MA03-18: E
 MA03-19: C
 MA03-20: T
-  
+ancient-map.cdfg  

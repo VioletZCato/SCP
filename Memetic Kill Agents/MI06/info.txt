@@ -3,4 +3,5 @@ Source: ContextFree, "Ancient Map"
 	Official Database
 
 MI06-1: SCP
+ancient-map.cdfg
 MI06-3: SCP, [binary]
