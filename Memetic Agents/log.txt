@@ -45,3 +45,5 @@ combined CI07-1 and -2 to make CI07
 used online tool to creat FI05-1
 
 added shapes with radial patterns to create FI05
+
+added necessary attriubtions to ContextFree works, and created a future plans doc

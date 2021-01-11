@@ -1,0 +1,5 @@
+added loading.mp4 and loading.gif
+
+added animated-logo similarly
+
+added screensaver similarly

@@ -4,4 +4,10 @@ Source: ContextFree, "Ancient Map"
 
 MI06-1: SCP
 ancient-map.cdfg
+ancient-map.cdfg
+craftycurate
+https://www.contextfreeart.org/gallery/view.php?id=185
+MI06-2: Wikipedia/Imgur
+Far2
+http://i.imgur.com/3zptykA.png
 MI06-3: SCP, [binary]

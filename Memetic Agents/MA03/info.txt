@@ -21,4 +21,6 @@ MA03-17: T
 MA03-18: E
 MA03-19: C
 MA03-20: T
-ancient-map.cdfg  
+ancient-map.cdfg
+craftycurate
+https://www.contextfreeart.org/gallery/view.php?id=185
